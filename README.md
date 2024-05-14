@@ -26,5 +26,5 @@ Welcome to our clustering project utilizing Location Intelligence Data sourced f
 [Location Intelligence Data | From Google Map (kaggle.com)](https://www.kaggle.com/your-dataset-link)
 
 **Project Contributors:**
-- [Aleksandra Kwiatkowska]
-- [Bogumiła Okrojek]
+- [Aleksandra Kwiatkowska](https://github.com/kwiatkowskaa)
+- [Bogumiła Okrojek](https://github.com/szostkawron)
