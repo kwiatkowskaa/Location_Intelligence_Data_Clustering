@@ -1,5 +1,4 @@
 # Location_Intelligence_Data_Clustering
-**Clustering with Location Intelligence Data - README**
 
 **Project Overview:**
 
