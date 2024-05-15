@@ -22,7 +22,7 @@ Welcome to our clustering project utilizing Location Intelligence Data sourced f
    - Validate the clusters generated and interpret the results to gain insights into spatial patterns and relationships.
 
 **Dataset Link:**
-[Location Intelligence Data | From Google Map (kaggle.com)](https://www.kaggle.com/your-dataset-link)
+[Location Intelligence Data | From Google Map (kaggle.com)]([https://www.kaggle.com/your-dataset-link](https://www.kaggle.com/datasets/azharsaleem/location-intelligence-data-from-google-map))
 
 **Project Contributors:**
 - [Aleksandra Kwiatkowska](https://github.com/kwiatkowskaa)
